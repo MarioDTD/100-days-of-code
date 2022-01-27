@@ -6,7 +6,7 @@ The log of my #100DaysOfCode challenge. Started on [Jan 26, Wednesday, 2022].
 
 ### R1D1
 
-Today's Progress: Started freeCodeCamp's Fron End Development Libraries course.
+Today's Progress: Started freeCodeCamp's Front End Development Libraries course.
 
 - Completed Bootstrap
 - Completed jQuery
@@ -17,3 +17,12 @@ Thoughts: Learned new things about jQuery and SASS.
 Link to work: [My freeCodeCamp Profile](https://www.freecodecamp.org/msjdtd)
 
 ### R1D2
+
+Today's Progress: Continued freeCodeCamp's Front End Development
+Libraries course.
+
+- Completed React chapters 27/47
+
+Thoughts: I was having a hard time figuring out setState and remembering JavaScript syntax
+
+Link to work: [My freeCodeCamp Profile](https://www.freecodecamp.org/msjdtd)

@@ -1,14 +1,27 @@
 # 100 Days Of Code - Log
 
-### Day 1: Jan 26 2022, Monday
+### Day 1: Jan 26 2022, Wednesday
 
-**Today's Progress**: Started freeCodeCamp's Fron End Development Libraries course.
+**Today's Progress**
+Started freeCodeCamp's Fron End Development Libraries course.
 
 - Completed Bootstrap
 - Completed jQuery
 - Completed SASS
 
 **Thoughts** Learned new things about jQuery and SASS.
+
+**Link(s) to work**
+
+1. [My freeCodeCamp Profile](https://www.freecodecamp.org/msjdtd)
+
+### Day 2: Jan 27 2022, Thursday
+
+**Today's Progress**
+Continued freeCodeCamp's Front End Development Libraries course.
+
+**Thoughts**
+I was having a hard time figuring out setState ad remembering Javascript syntax
 
 **Link(s) to work**
 
