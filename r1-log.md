@@ -26,3 +26,13 @@ Libraries course.
 Thoughts: I was having a hard time figuring out setState and remembering JavaScript syntax
 
 Link to work: [My freeCodeCamp Profile](https://www.freecodecamp.org/msjdtd)
+
+### R1D3
+
+Today's Progress: Today i decided to go back to the basics of JavaScript on freeCodeCamp in the JavaScript Algorithms and Data Structures course.
+
+- Completed Basic JavaSscript chapters 83/113
+
+Thoughts: I didn't do much JavaScript when i was in Bootcamp and doing the Front End Development caught me off guard. So back to the basics it is.
+
+Link to work: [My freeCodeCamp Profile](https://www.freecodecamp.org/msjdtd)

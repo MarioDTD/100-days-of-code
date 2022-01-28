@@ -13,7 +13,7 @@ Started freeCodeCamp's Fron End Development Libraries course.
 
 **Link(s) to work**
 
-1. [My freeCodeCamp Profile](https://www.freecodecamp.org/msjdtd)
+1. [My freeCodeCamp Profile timeline](https://www.freecodecamp.org/msjdtd)
 
 ### Day 2: Jan 27 2022, Thursday
 
@@ -25,4 +25,14 @@ I was having a hard time figuring out setState ad remembering Javascript syntax
 
 **Link(s) to work**
 
-1. [My freeCodeCamp Profile](https://www.freecodecamp.org/msjdtd)
+1. [My freeCodeCamp Profile timeline](https://www.freecodecamp.org/msjdtd)
+
+### Day 3: Jan 28 2022, Friday
+
+**Today's Progress**
+Today i decided to go back to the basics of JavaScript on freeCodeCamp in the JavaScript Algorithms and Data Structures course.
+
+**Thoughts**
+I didn't do much JavaScript when i was in Bootcamp and doing the Front End Development caught me off guard. So back to the basics it is.
+
+1. [My freeCodeCamp Profile timeline](https://www.freecodecamp.org/msjdtd)
