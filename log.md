@@ -35,4 +35,18 @@ Today i decided to go back to the basics of JavaScript on freeCodeCamp in the Ja
 **Thoughts**
 I didn't do much JavaScript when i was in Bootcamp and doing the Front End Development caught me off guard. So back to the basics it is.
 
+**Link(s) to work**
+
+1. [My freeCodeCamp Profile timeline](https://www.freecodecamp.org/msjdtd)
+
+## Day 4: Jan 30 2022, Sunday
+
+**Today's Progress**
+Completed basic JavaScript of JavaScript Algorithms and Data Structures course.
+
+**Thoughts**
+The last few chapters were challenging for me. I had to take a look at hints to understand what i'm supposed to do. Will come back to those chapters and redo it again.
+
+**Link(s) to work**
+
 1. [My freeCodeCamp Profile timeline](https://www.freecodecamp.org/msjdtd)

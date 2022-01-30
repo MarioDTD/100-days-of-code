@@ -31,8 +31,18 @@ Link to work: [My freeCodeCamp Profile](https://www.freecodecamp.org/msjdtd)
 
 Today's Progress: Today i decided to go back to the basics of JavaScript on freeCodeCamp in the JavaScript Algorithms and Data Structures course.
 
-- Completed Basic JavaSscript chapters 83/113
+- Completed Basic JavaScript chapters 83/113
 
 Thoughts: I didn't do much JavaScript when i was in Bootcamp and doing the Front End Development caught me off guard. So back to the basics it is.
+
+Link to work: [My freeCodeCamp Profile](https://www.freecodecamp.org/msjdtd)
+
+### R1D4
+
+Today's Progress: Completed basic JavaScript of JavaScript Algorithms and Data Structures course.
+
+- Completed Basic JavaScripts chapters 113/113
+
+Thoughts: The last few chapters were challenging for me. I had to take a look at hints to understand what i'm supposed to do. Will come back to those chapters and redo it again.
 
 Link to work: [My freeCodeCamp Profile](https://www.freecodecamp.org/msjdtd)
