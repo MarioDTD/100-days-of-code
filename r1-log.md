@@ -56,3 +56,13 @@ Today's Progress: Completed ES6 of JavaScript Algorithms and Data Structures cou
 Thoughts: The exercises in the ES6 chapters weren't as confusing as Basic JavaScript. So i might have to go back to practicing Basic JavaScript later on.
 
 Link to work: [My freeCodeCamp Profile](https://www.freecodecamp.org/msjdtd)
+
+### R1D5
+
+Today's Progress: Learned Regular Expressions on JavaScript Algotrithms and Data Structures course.
+
+- Completed Regular Expressions chapters 17/33
+
+Thoughts: Regex is my most hated topic in code, but i'll have to get used to it.
+
+Link to work: [My freeCodeCamp Profile](https://www.freecodecamp.org/msjdtd)

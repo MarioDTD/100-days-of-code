@@ -62,3 +62,15 @@ The exercises in the ES6 chapters weren't as confusing as Basic JavaScript. So i
 **Link(s) to work**
 
 1. [My freeCodeCamp Profile timeline](https://www.freecodecamp.org/msjdtd)
+
+## Day 5: Feb 1 2022, Tuesday
+
+**Today's Progress**
+Learned Regular Expressions on JavaScript Algotrithms and Data Structures course.
+
+**Thoughts**
+Regex is my most hated topic in code, but i'll have to get used to it.
+
+**Link(s) to work**
+
+1. [My freeCodeCamp Profile timeline](https://www.freecodecamp.org/msjdtd)
