@@ -46,3 +46,13 @@ Today's Progress: Completed basic JavaScript of JavaScript Algorithms and Data S
 Thoughts: The last few chapters were challenging for me. I had to take a look at hints to understand what i'm supposed to do. Will come back to those chapters and redo it again.
 
 Link to work: [My freeCodeCamp Profile](https://www.freecodecamp.org/msjdtd)
+
+### R1D5
+
+Today's Progress: Completed ES6 of JavaScript Algorithms and Data Structures course.
+
+- Completed ES6 chapters 29/29
+
+Thoughts: The exercises in the ES6 chapters weren't as confusing as Basic JavaScript. So i might have to go back to practicing Basic JavaScript later on.
+
+Link to work: [My freeCodeCamp Profile](https://www.freecodecamp.org/msjdtd)

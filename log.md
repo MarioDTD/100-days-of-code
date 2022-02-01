@@ -50,3 +50,15 @@ The last few chapters were challenging for me. I had to take a look at hints to 
 **Link(s) to work**
 
 1. [My freeCodeCamp Profile timeline](https://www.freecodecamp.org/msjdtd)
+
+## Day 5: Jan 31 2022, Monday
+
+**Today's Progress**
+Completed ES6 of JavaScript Algorithms and Data Structures course.
+
+**Thoughts**
+The exercises in the ES6 chapters weren't as confusing as Basic JavaScript. So i might have to go back to practicing Basic JavaScript later on.
+
+**Link(s) to work**
+
+1. [My freeCodeCamp Profile timeline](https://www.freecodecamp.org/msjdtd)
